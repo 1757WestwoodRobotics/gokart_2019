@@ -1,7 +1,6 @@
 package whsrobotics.robot;
 
 import edu.wpi.first.wpilibj.XboxController;
-import whsrobotics.*;
 
 /**
  * This class is the glue that binds the controls on the physical operator
